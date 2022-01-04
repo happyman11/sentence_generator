@@ -7,8 +7,7 @@ import streamlit.components.v1 as components
 from transformers import pipeline
 import pandas as pd
 import time
-import openpyxl  
-import base64   
+   
 
 #%%
 st.set_page_config(layout="wide")
